@@ -1,4 +1,4 @@
-package com.example.interndemo1;
+package com.example.interndemo1.activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
-import com.example.interndemo1.activity.SummaryActivity;
+import com.example.interndemo1.R;
 
 public class MainActivity extends AppCompatActivity {
 
